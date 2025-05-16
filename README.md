@@ -1,9 +1,9 @@
 ## Vehicle Detection, Counting, and Speed Estimation with YOLO and OpenCV
 This repository contains two powerful Python-based computer vision pipelines:
 
-##### Vehicle Detection & Line-Crossing Counting
+**Vehicle Detection & Line-Crossing Counting**
 
-##### Vehicle Speed Estimation using Line-Based Timing
+**Vehicle Speed Estimation using Line-Based Timing**
 
 Built using YOLO (You Only Look Once) models via the Ultralytics library and OpenCV, this system is capable of detecting and tracking vehicles in video streams, counting them as they cross a virtual line, and estimating their speed based on movement between defined lines.
 
